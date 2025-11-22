@@ -1,16 +1,37 @@
-# first_app
+Thiết lập môi trường
 
-A new Flutter project.
 
-## Getting Started
+Flutter SDK
 
-This project is a starting point for a Flutter application.
+Android Studio (dùng SDK Tools & Emulator)
 
-A few resources to get you started if this is your first Flutter project:
+VS Code (tùy chọn)
+lẹnh flutter doctor
+ 
+Tạo project mới 
+Vô giao diện code vs code
+ 
+Chạy chương trình 
+ 
+Và chạy code thành công
+ 
+Sửa lại thành khi bấm vô dấu cộng sẽ hiển thị Chào Trịnh Huy Hoàng ở Dưới và đếm số
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Tạo dự án Flutter đầu tiên
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dùng terminal tạo project:
+
+flutter create first_app và mở bằng trình duyệt
+uỳ chỉnh giao diện (UI Modification)
+
+Mở file: lib/main.dart
+
+Thay UI mặc định bằng giao diện tùy chọn như:
+
+“Hello World”
+
+Business Card
+
+Màn hình chào và thông tin sinh viên
+
+Chạy lại app để kiểm tra thay đổi
